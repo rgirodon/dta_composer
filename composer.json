@@ -1,5 +1,6 @@
 {
     "name": "dta/thirdcomposer",
+    "description" : "1er projet DTA avec Composer",
     "authors": [
         {
             "name": "rgirodon",
