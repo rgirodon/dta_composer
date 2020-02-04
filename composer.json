@@ -1,0 +1,19 @@
+{
+    "name": "dta/thirdcomposer",
+    "authors": [
+        {
+            "name": "rgirodon",
+            "email": "remy.girodon@gmail.com"
+        }
+    ],
+    "autoload" : {
+		"psr-4" : {
+			"Dta\\ThirdComposer\\" : "src"
+		}
+	},
+    "require": {
+        "nesbot/carbon": "^1.39",
+        "phpunit/phpunit": "^6.5",
+        "respect/validation": "^1.1"
+    }
+}
