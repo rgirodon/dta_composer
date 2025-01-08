@@ -13,7 +13,7 @@
 		}
 	},
     "require": {
-        "nesbot/carbon": "^1.39",
+        "nesbot/carbon": "^2.72",
         "phpunit/phpunit": "^6.5",
         "respect/validation": "^1.1"
     }
